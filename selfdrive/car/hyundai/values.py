@@ -65,6 +65,7 @@ class CAR:
   SELTOS_SP2 = "KIA SELTOS (SP2)"
   SOUL_EV_SK3 = "KIA SOUL EV (SK3)"
   MOHAVE_HM = "KIA MOHAVE (HM)"
+  K7_YG_2020 = "KIA K7 (YG) 2020"
 
   # GENESIS
   GENESIS_DH = "GENESIS (DH)"
@@ -402,6 +403,9 @@ FINGERPRINTS = {
   }],  
   CAR.K7_HEV_YG: [{
     68: 8, 127: 8, 304: 8, 320: 8, 339: 8, 352: 8, 356: 4, 544: 8, 576: 8, 593: 8, 688: 5, 832: 8, 865: 8, 881: 8, 882: 8, 897: 8, 902: 8, 903: 8, 905: 8, 909: 8, 913: 8, 916: 8, 1040: 8, 1042: 8, 1056: 8, 1057: 8, 1078: 4, 1096: 8, 1102: 8, 1108: 8, 1136: 6, 1138: 5, 1151: 8, 1155: 8, 1156: 8, 1157: 4, 1162: 8, 1164: 8, 1168: 7, 1173: 8, 1180: 8, 1186: 2, 1191: 2, 1210: 8, 1227: 8, 1265: 4, 1268: 8, 1280: 1, 1287: 4, 1290: 8, 1291: 8, 1292: 8, 1294: 8, 1312: 8, 1322: 8, 1342: 6, 1343: 8, 1345: 8, 1348: 8, 1355: 8, 1363: 8, 1369: 8, 1371: 8, 1378: 8, 1379: 8, 1407: 8, 1419: 8, 1427: 6, 1429: 8, 1430: 8, 1448: 8, 1456: 4, 1470: 8, 1476: 8, 1535: 8
+  }],
+   CAR.K7_YG_2020: [{
+    67: 8, 68: 8, 127: 8, 304: 8, 320: 8, 339: 8, 356: 4, 513: 8, 514: 8, 515: 8, 516: 8, 517: 8, 522: 8, 523: 8, 524: 8, 525: 8, 544: 8, 568: 8, 569: 8, 570: 8, 571: 8, 572: 8, 573: 8, 574: 8, 575: 8, 576: 8, 577: 8, 578: 8, 579: 8, 580: 8, 581: 8, 582: 8, 583: 8, 584: 8, 585: 8, 586: 8, 587: 8, 588: 8, 589: 8, 590: 8, 591: 8, 592: 8, 593: 8, 594: 8, 595: 8, 596: 8, 597: 8, 602: 8, 603: 8, 604: 8, 605: 8, 606: 8, 608: 8, 614: 8, 615: 8, 616: 8, 617: 8, 618: 8, 621: 8, 622: 8, 623: 8, 688: 5, 809: 8, 832: 8, 854: 8, 865: 8, 870: 7, 871: 8, 872: 8, 897: 8, 902: 8, 903: 8, 905: 8, 909: 8, 913: 8, 916: 8, 1040: 8, 1042: 8, 1056: 8, 1057: 8, 1078: 4, 1094: 8, 1096: 8, 1107: 5, 1108: 8, 1136: 8, 1151: 8, 1155: 8, 1156: 8, 1157: 4, 1162: 8, 1164: 8, 1168: 7, 1170: 8, 1173: 8, 1180: 8, 1186: 2, 1191: 2, 1210: 8, 1227: 8, 1265: 4, 1268: 8, 1280: 1, 1287: 4, 1290: 8, 1292: 8, 1294: 8, 1312: 8, 1322: 8, 1342: 6, 1343: 8, 1345: 8, 1348: 8, 1363: 8, 1369: 8, 1371: 8, 1378: 8, 1379: 8, 1384: 8, 1407: 8, 1419: 8, 1427: 6, 1456: 4, 1470: 8, 1680: 8, 1681: 8, 1988: 8, 1996: 8, 2000: 8, 2004: 8, 2008: 8, 2012: 8
   }],
   CAR.SELTOS_SP2: [{
     67: 8, 127: 8, 304: 8, 320: 8, 339: 8, 356: 4, 524: 8, 544: 8, 593: 8, 608: 8, 688: 6, 809: 8, 832: 8, 854: 8, 870: 7, 871: 8, 872: 8, 897: 8, 902: 8, 905: 8, 909: 8, 910: 5, 911: 5, 913: 8, 916: 8, 1040: 8, 1042: 8, 1056: 8, 1057: 8, 1064: 8, 1078: 4, 1102: 8, 1107: 5, 1114: 8, 1136: 8, 1145: 8, 1151: 8, 1155: 8, 1156: 8, 1157: 4, 1162: 8, 1164: 8, 1168: 8, 1170: 8, 1173: 8, 1186: 2, 1191: 2, 1225: 8, 1265: 4, 1280: 8, 1287: 4, 1290: 8, 1292: 8, 1294: 8, 1312: 8, 1322: 8, 1342: 6, 1345: 8, 1348: 8, 1363: 8, 1369: 8, 1379: 8, 1384: 8, 1394: 8, 1407: 8, 1419: 8, 1427: 6, 1446: 8, 1456: 4, 1470: 8, 1485: 8, 1988: 8, 1996: 8, 2000: 8, 2004: 8, 2008: 8, 2012: 8, 2015: 8
@@ -744,7 +748,7 @@ CHECKSUM = {
 
 FEATURES = {
   # Use Cluster for Gear Selection, rather than Transmission
-  "use_cluster_gears": {CAR.AVANTE_AD, CAR.KONA_OS, CAR.I30_PD, CAR.K7_YG, CAR.GRANDEUR_IG, CAR.GRANDEUR_FL_IG},
+  "use_cluster_gears": {CAR.AVANTE_AD, CAR.KONA_OS, CAR.I30_PD, CAR.K7_YG, CAR.GRANDEUR_IG, CAR.GRANDEUR_FL_IG, K7_YG_2020},
   # Use TCU Message for Gear Selection
   "use_tcu_gears": {CAR.K5_JF, CAR.SONATA_LF, CAR.VELOSTER_JS, CAR.SONATA_TURBO_LF, CAR.STINGER_CK},
   # Use E_GEAR Message for Gear Selection
@@ -755,12 +759,12 @@ FEATURES = {
   # Insert your car in this if you want turn LFA icon on.
   # need to add lfa modded cars which are changed from lkas to lfa cam
   "send_lfahda_mfa": {CAR.GRANDEUR_HEV_FL_IG, CAR.GRANDEUR_FL_IG, CAR.SONATA_DN8, CAR.PALISADE_LX2, CAR.SONATA_HEV_DN8, CAR.SANTAFE_TM, CAR.KONA_EV_OS, CAR.NIRO_EV_DE, CAR.KONA_HEV_OS,
-                      CAR.SELTOS_SP2, CAR.SOUL_EV_SK3, CAR.NEXO_FE, CAR.MOHAVE_HM, CAR.STINGER_CK, CAR.AVANTE_CN7, CAR.AVANTE_HEV_CN7, CAR.K5_DL3, CAR.K5_HEV_DL3, CAR.SANTAFE_HEV_TM, CAR.GENESIS_G70_IK},
+                      CAR.SELTOS_SP2, CAR.SOUL_EV_SK3, CAR.NEXO_FE, CAR.MOHAVE_HM, CAR.STINGER_CK, CAR.AVANTE_CN7, CAR.AVANTE_HEV_CN7, CAR.K5_DL3, CAR.K5_HEV_DL3, CAR.SANTAFE_HEV_TM, CAR.GENESIS_G70_IK, K7_YG_2020},
 
   "send_hda_mfa": {CAR.GRANDEUR_IG, CAR.GRANDEUR_HEV_IG},
   # these cars use the FCA11 message for the AEB and FCW signals, all others use SCC12
   # Insert your car in this if you see front collision error on your cluster.
-  "use_fca": {CAR.GRANDEUR_HEV_FL_IG, CAR.GRANDEUR_FL_IG, CAR.SONATA_DN8, CAR.AVANTE_CN7, CAR.I30_PD, CAR.PALISADE_LX2, CAR.GENESIS_G70_IK, CAR.GENESIS_G70_2020, CAR.GENESIS_G90_HI, CAR.KONA_HEV_OS, CAR.KONA_EV_OS, CAR.SELTOS_SP2, CAR.MOHAVE_HM, CAR.KIA_FORTE},
+  "use_fca": {CAR.GRANDEUR_HEV_FL_IG, CAR.GRANDEUR_FL_IG, CAR.SONATA_DN8, CAR.AVANTE_CN7, CAR.I30_PD, CAR.PALISADE_LX2, CAR.GENESIS_G70_IK, CAR.GENESIS_G70_2020, CAR.GENESIS_G90_HI, CAR.KONA_HEV_OS, CAR.KONA_EV_OS, CAR.SELTOS_SP2, CAR.MOHAVE_HM, CAR.KIA_FORTE, K7_YG_2020},
 }
 
 HYBRID_CAR = {CAR.K5_HEV_JF, CAR.IONIQ_HEV_AE, CAR.SONATA_HEV_DN8, CAR.SONATA_HEV_LF, CAR.K7_HEV_YG, CAR.GRANDEUR_HEV_IG, CAR.GRANDEUR_HEV_FL_IG, CAR.NIRO_HEV_DE, CAR.KONA_HEV_OS, CAR.AVANTE_HEV_CN7, CAR.SANTAFE_HEV_TM, CAR.K5_HEV_DL3}
@@ -817,6 +821,7 @@ if Params().get_bool("UseRadarTrack"):
     CAR.SELTOS_SP2: dbc_dict('hyundai_kia_generic', 'hyundai_kia_mando_front_radar'),
     CAR.SOUL_EV_SK3: dbc_dict('hyundai_kia_generic', 'hyundai_kia_mando_front_radar'),
     CAR.MOHAVE_HM: dbc_dict('hyundai_kia_generic', 'hyundai_kia_mando_front_radar'),
+    CAR.K7_YG_2020: dbc_dict('hyundai_kia_generic', 'hyundai_kia_mando_front_radar')
   }
 else:
   DBC = {
@@ -869,6 +874,7 @@ else:
     CAR.SELTOS_SP2: dbc_dict('hyundai_kia_generic', None),
     CAR.SOUL_EV_SK3: dbc_dict('hyundai_kia_generic', None),
     CAR.MOHAVE_HM: dbc_dict('hyundai_kia_generic', None),
+    CAR.K7_YG_2020: dbc_dict('hyundai_kia_generic', None)
   }
 
 STEER_THRESHOLD = int(Params().get("SteerThreshold", encoding="utf8"))
